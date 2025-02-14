@@ -22,3 +22,13 @@ function actualizarListaAmigos(){
         listaActualizadaAmigos.innerHTML += "<li>" + amigos[i] + "</li>";
     }
 }
+
+function sortearAmigo(){
+    let amigoSorteado
+    if (amigos.length != 0){
+        amigoSorteado = amigos[Math.floor(Math.random() * amigos.length)];
+        document.getElementById("resultado").innerHTML = "<li>" + amigoSorteado + "</li>";
+    } else {
+        alert("No hay amigos en la lista");
+    }
+}
