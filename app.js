@@ -24,11 +24,13 @@ function actualizarListaAmigos(){
 }
 
 function sortearAmigo(){
-    let amigoSorteado
-    if (amigos.length != 0){
-        amigoSorteado = amigos[Math.floor(Math.random() * amigos.length)];
-        document.getElementById("resultado").innerHTML = "<li>" + amigoSorteado + "</li>";
-    } else {
-        alert("No hay amigos en la lista");
-    }
+    
+    document.getElementById("resultado").innerHTML = "<a href = 'https://open.spotify.com/playlist/16Lsl252fk7765WnExLoID?si=5E4QeY_ZQR2b9CXcjtHIyg' > Darwin presioname 😏 </a>";
+    // let amigoSorteado
+    // if (amigos.length != 0){
+    //     amigoSorteado = amigos[Math.floor(Math.random() * amigos.length)];
+    //     document.getElementById("resultado").innerHTML = "<li>" + amigoSorteado + "</li>";
+    // } else {
+    //     alert("No hay amigos en la lista");
+    // }
 }
