@@ -28,7 +28,7 @@ Para realizar el sorteo debe presionar "Sortear amigo secreto":
 
 
 ### 📁 Accede al proyecto
-<a href="https://jesshv.github.io/juego-secreto/">Prueba el juego aqui</a>
+<a href="https://jesshv.github.io/challenge-secret-friend/">Prueba el juego presionando aqui</a>
 
 
 ## Tecnologías utilizadas
