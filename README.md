@@ -1,6 +1,7 @@
 <h1 align="center"> Reto del amigo secreto </h1>
 Aplicación web de la implementación del desafio de amigo secreto por AluraLatam en su programa "Principiante en Programación G8 - ONE
 
+![image](https://github.com/user-attachments/assets/957673ad-525d-4546-834d-bca3b512f589)
 
 <p id="insignias" align="center">
    <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
@@ -15,17 +16,15 @@ Aplicación web de la implementación del desafio de amigo secreto por AluraLata
 
 
 ## Descripción del proyecto
-Esta es la implementación del juego del Numero Secreto, desarrollado en el curso de ["Lógica de programación: explorar funciones y listas"](https://app.aluracursos.com/course/logica-programacion-explorar-funciones-listas) por el programa ONE G8 de [AluraLatam](https://www.linkedin.com/school/alura-latam/).
+Esta es la implementación del <strong>Reto del amigo secreto</strong>, desarrollado en el curso de ["Lógica de programación: explorar funciones y listas"](https://app.aluracursos.com/course/logica-programacion-explorar-funciones-listas) por el programa ONE G8 de [AluraLatam](https://www.linkedin.com/school/alura-latam/).
 
 
-## Características del juego y demostración
-El usuario deberá escoger un número del uno al diez, e intentar adivinar si es el número que el juego ha pensado.
+## Demostración del funcionamiento
+El usuario deberá escribir los nombres y presionar "Añadir", irán apareciendo listados:
+![image](https://github.com/user-attachments/assets/e21e6ea3-6fd3-41d2-b6a9-82b8b7f9964a)
 
-Si el resultado es correcto, dará un mensaje de "Felicitaciones" y el número de intentos en que lo hizo.
-![image](https://github.com/user-attachments/assets/84a42acd-691a-4be7-995f-cfd3f56a2bd9)
-
-Si el resultado es incorrecto, dará un mensaje de "Fallaste" y una pista, si el número es mayor o menor al número pensado del juego.
-![image](https://github.com/user-attachments/assets/a30dbd9d-7b74-4024-baad-f1bf38e9052e)
+Para realizar el sorteo debe presionar "Sortear amigo secreto":
+![image](https://github.com/user-attachments/assets/87ea7894-d39b-41e9-b143-6124356318a2)
 
 
 ### 📁 Accede al proyecto
@@ -33,9 +32,10 @@ Si el resultado es incorrecto, dará un mensaje de "Fallaste" y una pista, si el
 
 
 ## Tecnologías utilizadas
--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40"/>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40"/>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" alt="JavaScript" width="40" height="40">
+- <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" width="50" height="50">
 
 
 ## Conclusión
-Finalizando este curso, he podido repasar con facilidad la lógica en la programación junto a la creación de funciones, loops, y condicionales.
+Finalizando este curso, he podido repasar con facilidad la lógica en la programación con JS junto a la edición de HTML y CSS.
