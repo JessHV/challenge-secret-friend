@@ -11,10 +11,6 @@ function agregarAmigo(){
         amigos.push(nuevoAmigo);
         document.querySelector("#amigo").value = "";
     }
-    if (amigos.length >= 2){
-        document.getElementById("listaAmigos").innerHTML = "<li>" + amigos[0] + "</li>";
-
-    }
     console.log(amigos);
     actualizarListaAmigos();
 }
